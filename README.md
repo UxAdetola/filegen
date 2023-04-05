@@ -1,9 +1,9 @@
 # filegen
-# Computer Science
+Computer Science
 Email: fpi_comsci@federalpolyilaro.com
 Password: M988xa6zbd
 
-# Library and Information Science
+Library and Information Science
 Email: fpi_library@federalpolyilaro.com
 Password: pV13WxU85A
 
