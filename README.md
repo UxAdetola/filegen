@@ -162,3 +162,27 @@ Agricultural Technology
 Email: fpi_agrictech@federalpolyilaro.com
 Password: vDkVrz]GNtN
 
+Purchasing and Supply Management
+Email: fpi_pur&supmgt@federalpolyilaro.edu.ng
+Password: IMaODBWJaw
+
+Maritime Technology & Business Study
+Email: fpi_maritech@federalpolyilaro.edu.ng
+Password: 0J9TPpZT4W
+
+Crime Management
+Email: fpi_crimetech@federalpolyilaro.edu.ng
+Password: QkDgV5vTBP
+
+Renewable Energy Technology
+Email: fpi_renentech@federalpolyilaro.edu.ng
+Password: 27kXDRWrYh
+
+Metallurgical Engineering Technology
+Email: fpi_metaltech@federalpolyilaro.edu.ng
+Password: QtXtr21oos
+
+Cement Engineering Technology
+Email: fpi_cementech@federalpolyilaro.edu.ng
+Password: 8Lmhj87Zw0
+
