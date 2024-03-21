@@ -137,3 +137,28 @@ Password: cgZRuiNQe6
 MECHATRONICS
 Email: fpi_mechatronics@federalpolyilaro.edu.ng
 Password: 47nvagycCO
+
+Agricultural Extension Management
+Email: fpi_agricmgt@federalpolyilaro.edu.ng
+Password: 0tOePl9KGO
+
+Animal Production Technology
+Email: fpi_aniprotec@federalpolyilaro.edu.ng
+Password: FshQizV9bH
+
+Animal Health Production Technology
+Email: fpi_healthtech@federalpolyilaro.edu.ng
+Password: QbHsDYFC68
+
+Crop Production Technology
+Email: fpi_croptech@federalpolyilaro.edu.ng
+Password: t5ubNbriv1
+
+Horticultural Technology
+Email: fpi_hortech@federalpolyilaro.edu.ng
+Password: kgOGiX7312
+
+Agricultural Technology
+Email: fpi_agrictech@federalpolyilaro.com
+Password: vDkVrz]GNtN
+
