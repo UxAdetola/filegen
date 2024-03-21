@@ -118,10 +118,6 @@ Leisure and Tourism
 Email: fpi_leisureandtour@federalpolyilaro.edu.ng
 Password: 8TnoE7ms7Z
 
-Agriculture Technology
-Email: fpi_agrictech@federalpolyilaro.edu.ng
-Password: UH98087wnb
-
 Transport Planning Management
 Email: fpi_tranmgt@federalpolyilaro.edu.ng
 Password: RaO36hS6Go
